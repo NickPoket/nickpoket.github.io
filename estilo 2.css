@@ -1,0 +1,19 @@
+body {
+    background-color: cornflowerblue;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+button {
+    border: none;
+    border-radius: 5px;
+    padding: 7px;
+    color:grey;
+}
+
+button:hover {
+    background-color:rgb(87, 87, 87);
+}
